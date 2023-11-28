@@ -40,13 +40,6 @@ body {
   padding-right: 5%;
 }
 
-header {
-  background-image: url(billeder/R.jpeg);
-  background-size: cover;
-  backdrop-filter: blur(1.5rem);
-  padding: 10px;
-}
-
 h1 {
   font-family: "rubik-bolditalic";
   font-size: 50px;
@@ -76,10 +69,6 @@ h3 {
 }
 
 footer {
-  background-image: url(billeder/R.jpeg);
-  background-size: cover;
-  backdrop-filter: blur(1.5rem);
-  padding: 10px;
   font-family: "quicksand-regular";
   font-size: 20px;
   color: white;
